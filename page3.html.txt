@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+	<title>Contact</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+
+<body>
+
+<header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="page2.html">Locations</a></li>
+        <li><a href="page3.html">Contact</a></li>
+      </ul>
+    </nav>
+</header>
+
+<div style="text-align: center;">
+
+<h1 style="padding-left:15px";>The Founder of the Bavarian Neoliberal Club</h1>
+
+  <a href="https://www.global.hokudai.ac.jp/">Hokkaido University</a> </br> Modern Japanese Studies Program: 11200014 </br>
+Email:       philippoliver.krueger-.z6@elms.hokudai.ac.jp
+
+<figure> 
+<p>
+<img src="founder.jpg" alt="Picture of the founder" style="width:260px;height:400px;">
+<figcaption>Philipp Oliver Krueger. (photographer: Kristina Schmidt)</figcaption>
+</p>
+</figure>
+
+</div>
+
+    </body>
+
+
+</html>
